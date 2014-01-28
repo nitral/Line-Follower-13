@@ -1,3 +1,11 @@
+# Windows Files
+[Tt]humbs.db
+[Dd]esktop.ini
+*.DS_Store
+
+# Editor Temporary Files
+*.*~
+
 # Object files
 *.o
 *.ko
